@@ -1,6 +1,7 @@
 # flutterfbclone
 
-A new Flutter application.
+A new Flutter application.It will be 
+This is a Facebook clone app with Flutter and Dart for a bootcamp challenge. It will be fully developed in due course.
 
 ## Getting Started
 
